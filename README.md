@@ -1,6 +1,6 @@
 # Audio Gender Recognition with CNN
 
-This project implements a Deep Learning model capable of classifying the gender of a speaker (Male/Female) from `.wav` audio files. It achieves **~99% accuracy** on the test set and has been validated on "in-the-wild" audio samples from diverse sources like YouTube.
+This project implements a Deep Learning model capable of classifying the gender of a speaker (Male/Female) from `.wav` audio files. It achieves **~99% accuracy** on the test set and has been validated on "in-the-wild" audio samples from diverse sources like YouTube. The dataset used for the training can be find here : https://www.kaggle.com/datasets/murtadhanajim/gender-recognition-by-voiceoriginal/data
 
 ## Features
 * **Preprocessing**: Real-time Mel-spectrogram computation using TensorFlow's signal processing tools.
